@@ -1,5 +1,5 @@
   {
-    "name": "Stock test",
+    "name": "Stock tester",
     "version": "1.0",
     "description": "Build an Extension!",
     "permissions": ["declarativeContent","storage"],
